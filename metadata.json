@@ -1,0 +1,6 @@
+{
+    "uuid": "oggetto-dinner@amarkin",
+    "name": "Что на обед",
+    "description": "Отображает сегодняшний обед из таблицы",
+    "prevent-decorations": false
+}
